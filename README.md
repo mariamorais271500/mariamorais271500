@@ -9,4 +9,8 @@
 </br>
 </br>
 
-Te
+Tenho 15 anos, moro em sãomjosé das palmeiras/pr esounaluna da disciplina de pensamento computacional!
+
+### tecnologiase ferramentas:
+<code>
+
